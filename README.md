@@ -68,6 +68,24 @@ As a Data Scientist, you will assess the new landing page’s effectiveness by a
 - Contingency Tables
 
 ---
+## Visual Analytics
+## Time spent on the page :
+<img width="950" height="532" alt="image" src="https://github.com/user-attachments/assets/4501ef07-ae24-43d8-8218-d1a3ce34002a" />
+## Group:
+<img width="950" height="597" alt="image" src="https://github.com/user-attachments/assets/52771bde-fbbc-4366-aa55-2bf3e6d75b5c" />
+## Landing page :
+<img width="942" height="581" alt="image" src="https://github.com/user-attachments/assets/d1cd5071-5e0f-45c3-871c-04f6549b0650" />
+<img width="1053" height="585" alt="image" src="https://github.com/user-attachments/assets/b44035cc-f664-4767-b9fe-b9a49076354a" />
+## Language Preferred by consumers:
+<img width="992" height="542" alt="image" src="https://github.com/user-attachments/assets/db9daf7d-906f-4648-a0ab-725b7643d12e" />
+## Landing page vs time_spent by customers:
+<img width="1892" height="730" alt="image" src="https://github.com/user-attachments/assets/fd01880d-0c9f-44fd-949c-47b7288047d9" />
+<img width="880" height="868" alt="image" src="https://github.com/user-attachments/assets/a189d93d-d999-4ea9-8ddc-062939d52c4e" />
+<img width="896" height="857" alt="image" src="https://github.com/user-attachments/assets/bd36db81-344f-4ffc-836f-ee067d8614ac" />
+## Converted vs language preferred:
+<img width="961" height="852" alt="image" src="https://github.com/user-attachments/assets/4e90c731-d3f8-4c47-be97-9ebd32a4a6f2" />
+## Time_Spent on the page vs Language preferred:
+<img width="1203" height="843" alt="image" src="https://github.com/user-attachments/assets/7d99f64b-89ff-49d3-aec3-1f3d252990a7" />
 
 ## 📌 Conclusion and Business Recommendations
 
@@ -119,7 +137,7 @@ As a Data Scientist, you will assess the new landing page’s effectiveness by a
 
 ## 📫 Contact
 
-For questions, suggestions, or collaborations, please open an issue or contact me at [YourEmail@example.com].
+For questions, suggestions, or collaborations, please open an issue or contact me at [vasupriya2000@gmail.com].
 
 ---
 
